@@ -1,0 +1,1 @@
+Get-Content .\logs\loi_500.txt -TotalCount 2
